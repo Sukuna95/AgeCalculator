@@ -1,6 +1,4 @@
-# AgeCalculator
-
-# 🎂 Age Calculator
+# Age Calculator
 
 A simple and responsive **Age Calculator** built with **JavaScript**, **Luxon**, and **Flatpickr**.  
 Users can select their birthdate using a datepicker, and the app calculates their **exact age** in **years, months, and days**.
